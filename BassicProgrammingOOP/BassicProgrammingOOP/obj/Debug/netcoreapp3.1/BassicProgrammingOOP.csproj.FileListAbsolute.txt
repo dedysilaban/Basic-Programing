@@ -1,0 +1,14 @@
+D:\Metrodata Coding Camp\BassicProgrammingOOP\BassicProgrammingOOP\bin\Debug\netcoreapp3.1\BassicProgrammingOOP.exe
+D:\Metrodata Coding Camp\BassicProgrammingOOP\BassicProgrammingOOP\bin\Debug\netcoreapp3.1\BassicProgrammingOOP.deps.json
+D:\Metrodata Coding Camp\BassicProgrammingOOP\BassicProgrammingOOP\bin\Debug\netcoreapp3.1\BassicProgrammingOOP.runtimeconfig.json
+D:\Metrodata Coding Camp\BassicProgrammingOOP\BassicProgrammingOOP\bin\Debug\netcoreapp3.1\BassicProgrammingOOP.runtimeconfig.dev.json
+D:\Metrodata Coding Camp\BassicProgrammingOOP\BassicProgrammingOOP\bin\Debug\netcoreapp3.1\BassicProgrammingOOP.dll
+D:\Metrodata Coding Camp\BassicProgrammingOOP\BassicProgrammingOOP\bin\Debug\netcoreapp3.1\BassicProgrammingOOP.pdb
+D:\Metrodata Coding Camp\BassicProgrammingOOP\BassicProgrammingOOP\obj\Debug\netcoreapp3.1\BassicProgrammingOOP.csproj.AssemblyReference.cache
+D:\Metrodata Coding Camp\BassicProgrammingOOP\BassicProgrammingOOP\obj\Debug\netcoreapp3.1\BassicProgrammingOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Metrodata Coding Camp\BassicProgrammingOOP\BassicProgrammingOOP\obj\Debug\netcoreapp3.1\BassicProgrammingOOP.AssemblyInfoInputs.cache
+D:\Metrodata Coding Camp\BassicProgrammingOOP\BassicProgrammingOOP\obj\Debug\netcoreapp3.1\BassicProgrammingOOP.AssemblyInfo.cs
+D:\Metrodata Coding Camp\BassicProgrammingOOP\BassicProgrammingOOP\obj\Debug\netcoreapp3.1\BassicProgrammingOOP.csproj.CoreCompileInputs.cache
+D:\Metrodata Coding Camp\BassicProgrammingOOP\BassicProgrammingOOP\obj\Debug\netcoreapp3.1\BassicProgrammingOOP.dll
+D:\Metrodata Coding Camp\BassicProgrammingOOP\BassicProgrammingOOP\obj\Debug\netcoreapp3.1\BassicProgrammingOOP.pdb
+D:\Metrodata Coding Camp\BassicProgrammingOOP\BassicProgrammingOOP\obj\Debug\netcoreapp3.1\BassicProgrammingOOP.genruntimeconfig.cache
